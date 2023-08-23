@@ -26,5 +26,11 @@
     <ClInclude Include="SmartPointer.h">
       <Filter>소스 파일</Filter>
     </ClInclude>
+    <ClInclude Include="deadlock.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="future.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
